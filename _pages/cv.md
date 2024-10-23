@@ -1,13 +1,13 @@
-**ALEXANDER LIU**  
+# **ALEXANDER LIU**  
 aliu372@gatech.edu ⋄ Atlanta, GA
 
-# EDUCATION
+### EDUCATION
 
 **Georgia Institute of Technology**August 2021 - May 2025
 
 *B.S. Physics & Minor in Materials Science and Engineering*
 
-# RESEARCH EXPERIENCE
+### RESEARCH EXPERIENCE
 
 **Garten Group, Georgia Tech**Spring 2024 - present
 
@@ -106,7 +106,7 @@ aliu372@gatech.edu ⋄ Atlanta, GA
 -   Conducted experiments on Ag NC thermal stability in different
     reducing and oxidizing agents
 
-# PRESENTATIONS
+### PRESENTATIONS
 
 **NIST SURF Colloquium Summer 2024**
 
@@ -122,7 +122,7 @@ Developing SrRuO<sub>3</sub> Contacts for Ferroelectric Photovoltaics
 Shape-Controlled Synthesis of Silver Nanocubes: Opportunities and
 Challenges
 
-# PROJECTS
+### PROJECTS
 
 **RASC-AL Lunar Rover Project Proposal**Spring 2024
 
@@ -143,13 +143,13 @@ for 10 parts out of a 50 part assembly, modeled those parts, mated the
 final assembly, created exploded views and animated the model for our
 team presentation.
 
-# HONORS AND AWARDS
+### HONORS AND AWARDS
 
 2em0pt **MSE Carpet Industry Scholarship, $2000**2022-2023
 
 2em0pt **M. Weldon Rogers Scholarship, $1000**2022-2023
 
-# ACTIVITIES
+### ACTIVITIES
 
 **Physics 2212, Into to Electromagnetism Lab TA**Fall 2024
 
